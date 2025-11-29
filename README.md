@@ -42,9 +42,10 @@ head(sample_diabetes[, 1:5])
 # print(predictions)
 ```
 
-Model Performance Report (科研证据) Our model is based on a Random
-Forest classifier optimized for clinical data. Below are the performance
-metrics.
+## Model Performance Report
+
+Our model is based on a Random Forest classifier optimized for clinical
+data. Below are the performance metrics.
 
 1.  ROC Curve The model demonstrates strong predictive power with the
     following ROC curve:
@@ -61,7 +62,7 @@ metrics.
 
 <img src="man/figures/shap.png" width="80%" />
 
-Contributors:
+## Contributors:
 
 Machine Learning Modeling: ShiyaChen
 
