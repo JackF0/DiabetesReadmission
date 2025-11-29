@@ -16,3 +16,5 @@ Imports:
 Depends: 
     R (>= 3.5)
 LazyData: true
+URL: https://github.com/JackF0/DiabetesReadmission
+BugReports: https://github.com/JackF0/DiabetesReadmission/issues
