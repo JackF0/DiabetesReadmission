@@ -45,7 +45,7 @@ head(sample_diabetes[, 1:5])
 # print(predictions)
 ```
 
-Model Performance Report (科研证据)
+Model Performance Report 
 Our model is based on a Random Forest classifier optimized for clinical data. Below are the performance metrics.
 
 1. ROC Curve
