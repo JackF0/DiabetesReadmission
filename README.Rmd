@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-#DiabetesReadmission
+## DiabetesReadmission
 The goal of DiabetesReadmission is to predict the 30-day hospital readmission risk for diabetes patients using a pre-trained Random Forest model. This package was developed as part of a Bioinformatics Capstone Project.
 
 

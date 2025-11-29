@@ -1,10 +1,12 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-\#DiabetesReadmission The goal of DiabetesReadmission is to predict the
-30-day hospital readmission risk for diabetes patients using a
-pre-trained Random Forest model. This package was developed as part of a
-Bioinformatics Capstone Project.
+## DiabetesReadmission
+
+The goal of DiabetesReadmission is to predict the 30-day hospital
+readmission risk for diabetes patients using a pre-trained Random Forest
+model. This package was developed as part of a Bioinformatics Capstone
+Project.
 
 ## Installation
 
